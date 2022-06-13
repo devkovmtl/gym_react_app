@@ -5,3 +5,4 @@ export { default as HeroBanner } from './HeroBanner';
 export { default as SearchExercises } from './SearchExercises';
 export { default as HorizontalScrollbar } from './HorizontalScrollbar';
 export { default as BodyPart } from './BodyPart';
+export { default as ExerciseCard } from './ExerciseCard';
