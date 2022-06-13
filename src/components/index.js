@@ -6,3 +6,6 @@ export { default as SearchExercises } from './SearchExercises';
 export { default as HorizontalScrollbar } from './HorizontalScrollbar';
 export { default as BodyPart } from './BodyPart';
 export { default as ExerciseCard } from './ExerciseCard';
+export { default as Details } from './Details';
+export { default as ExerciseVideos } from './ExerciseVideos';
+export { default as SimilarExercises } from './SimilarExercises';
